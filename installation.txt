@@ -9,3 +9,4 @@
 8. sudo systemctl status cassandra
 9. sudo nodetool status
 10. cqlsh
+11. sudo apt remove cassandra
